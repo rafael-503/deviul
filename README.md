@@ -32,6 +32,8 @@ Dispositivo criado para auxiliar deficientes visuais a se locomoverem nas ruas, 
 - Diodo 1N4148
 
 # Circuito
+![Screenshot_2](https://user-images.githubusercontent.com/73114569/205469688-3ef05fde-0316-4714-83fb-b508c7ef1417.png)
+
 
 
 
